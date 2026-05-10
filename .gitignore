@@ -1,0 +1,11 @@
+# Datos crudos (demasiado pesados para GitHub)
+data/*.csv
+gasto_covid.db
+etl_log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
