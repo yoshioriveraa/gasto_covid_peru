@@ -170,9 +170,9 @@ El mes de mayor gasto en 2020 fue **octubre (S/. 52.1M)**, seguido de diciembre 
 
 ## 👤 Autor
 
-**[Tu Nombre]**
-Analista de Datos | Sector Público Peruano
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [GitHub](https://github.com/tu-usuario)
+**Yoss Rivera**
+Analista de Datos 
+[LinkedIn](https://linkedin.com/in/yoshioriveraa) · [GitHub](https://github.com/yoshioriveraa)
 
 ---
 
