@@ -51,7 +51,7 @@ gasto-covid-peru/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/gasto-covid-peru
+git clone https://github.com/yoshioriveraa/gasto_covid_peru
 cd gasto-covid-peru
 
 # 2. Instalar dependencias
