@@ -170,7 +170,7 @@ El mes de mayor gasto en 2020 fue **octubre (S/. 52.1M)**, seguido de diciembre 
 
 ## 👤 Autor
 
-**Yoss Rivera**
+**Yoshio Rivera**
 Analista de Datos 
 [LinkedIn](https://linkedin.com/in/yoshioriveraa) · [GitHub](https://github.com/yoshioriveraa)
 
